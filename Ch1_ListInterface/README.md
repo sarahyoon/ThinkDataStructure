@@ -7,5 +7,5 @@
   
 * ListCleintExampleTest Class
   - Junit test for ListClientExample
-  - Creates a ListClientExample, invokes getList, and then checks if the result is an LinkedList
+  - Creates a ListClientExample, invokes getList, and then checks if the result is an ArrayList
 
